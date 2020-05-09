@@ -1,4 +1,2 @@
 # Notepad
-Text Editor
-
-A Text Editor made using SFML
+A Text Editor made using C++/SFML
